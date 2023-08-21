@@ -20,6 +20,11 @@ can resolve domain names to their corresponding IP addresses.
 
 ## Demo
 
+
+https://github.com/PhotKosee/dns/assets/114990364/503408dd-6fbf-4aaf-bbdc-03982596ab3c
+
+
+
 ## Basic Version
 You will develop two network applications: <br/>
 1. **Resolver**: Your resolver will extract information from name servers in response to client
